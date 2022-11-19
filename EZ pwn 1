@@ -1,0 +1,42 @@
+EZ pwn 1
+Points: 50
+Topics: ez-pwn
+Description
+Memory safety? Whats that?
+Required Reading:
+- https://en.wikipedia.org/wiki/Stack_buffer_overflow
+
+ez-pwn-1, source
+
+nc chals.2022.squarectf.com 4100
+Flag
+Go to your profile to submit flags.
+
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+----------------------
+SOURCE
+--------------------
+
+int main()
+{
+    char command[16];
+    char way_too_small_input_buf[8];
+    strcpy(command, "ls");
+
+    puts("Hi! would you like me to ls the current directory?");
+    read(0, way_too_small_input_buf, 24);
+    if (!strcmp(way_too_small_input_buf, "no\n")) {
+        puts("Oh, ok :(");
+        exit(0);
+    }
+
+    puts("Ok, here ya go!\n");
+    system(command);
+
+}
