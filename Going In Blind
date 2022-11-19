@@ -1,0 +1,9 @@
+Going In Blind
+Points: 200
+Topics: web
+Description
+Ok, the developers got smart, and figured out a way to prevent SQLi in the login page. Plus, they decided the flag shouldn't be hardcoded in the web application anymore. How could anyone get to it now?
+
+http://chals.2022.squarectf.com:4103
+Flag
+Go to your profile to submit flags.
