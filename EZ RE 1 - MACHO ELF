@@ -1,0 +1,8 @@
+EZ RE 1
+Points: 100
+Topics: ez-re
+Description
+all that cryptography stuff is real confusing. how hard could it REALLY be?
+Required Reading:
+- intro to x86 https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+- basic documentation for a disassembler of your choosing (try Ghidra, Binary Ninja Cloud, or IDA Freeware)
