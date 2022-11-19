@@ -1,1 +1,152 @@
 
+   Challenges
+       │
+       ├──┬── Pulse Check
+       │  │
+       │  ├── pulse-check
+       │  │
+       │  └── points: 1
+       │  
+       │  
+       │  
+       ├──┬── EZ pwn 1
+       │  │
+       │  ├── ez-pwn
+       │  │
+       │  └── points: 50
+       │  
+       │  
+       │  
+       ├──┬── EZ pwn 2
+       │  │
+       │  ├── ez-pwn
+       │  │
+       │  └── points: 100
+       │  
+       │  
+       │  
+       ├──┬── EZ RE 1
+       │  │
+       │  ├── ez-re
+       │  │
+       │  └── points: 100
+       │  
+       │  
+       │  
+       ├──┬── Emoji Hunt
+       │  │
+       │  ├── misc
+       │  │
+       │  └── points: 100
+       │  
+       │  
+       │  
+       ├──┬── sqUARe paymenT terminal
+       │  │
+       │  ├── misc
+       │  │
+       │  └── points: 150
+       │  
+       │  
+       │  
+       ├──┬── Hard Copy
+       │  │
+       │  ├── crypto ˖ reversing
+       │  │
+       │  └── points: 300
+       │  
+       │  
+       │  
+       ├──┬── ROPlike easy
+       │  │
+       │  ├── pwn
+       │  │
+       │  └── points: 300
+       │  
+       │  
+       │  
+       ├──┬── ROPlike medium
+       │  │
+       │  ├── pwn
+       │  │
+       │  └── points: 350
+       │  
+       │  
+       │  
+       ├──┬── ROPlike hard
+       │  │
+       │  ├── pwn
+       │  │
+       │  └── points: 450
+       │  
+       │  
+       │  
+       ├──┬── 3 item menu
+       │  │
+       │  ├── pwn ˖ crypto
+       │  │
+       │  └── points: 300
+       │  
+       │  
+       │  
+       ├──┬── its right there
+       │  │
+       │  ├── reversing
+       │  │
+       │  └── points: 100
+       │  
+       │  
+       │  
+       ├──┬── Yet Another Reversing Activity
+       │  │
+       │  ├── reversing
+       │  │
+       │  └── points: 300
+       │  
+       │  
+       │  
+       ├──┬── Alex Hanlon Has The Flag!
+       │  │
+       │  ├── web
+       │  │
+       │  └── points: 50
+       │  
+       │  
+       │  
+       ├──┬── xark
+       │  │
+       │  ├── web
+       │  │
+       │  └── points: 250
+       │  
+       │  
+       │  
+       ├──┬── Going In Blind
+       │  │
+       │  ├── web
+       │  │
+       │  └── points: 200
+       │  
+       │  
+       │  
+       ├──┬── NoJS
+       │  │
+       │  ├── web
+       │  │
+       │  └── points: 400
+       │  
+       │  
+       │  
+       ├──┬── Developer's Hubris
+       │  │
+       │  ├── web
+       │  │
+       │  └── points: 500
+       │  
+       │  
+       │  
+       └──┬── BLOCKchain
+          │
+          ├── reversing
+          │
+          └── points: 500
