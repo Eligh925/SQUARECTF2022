@@ -1,0 +1,7 @@
+3 item menu
+Points: 300
+Topics: pwn + crypto
+Description
+Hello! Welcome to Square CTF, introducing everyone's favorite CTF three-item menu! three_item_menu; libc.so.6
+
+nc chals.2022.squarectf.com 4099
