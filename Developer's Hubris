@@ -1,0 +1,7 @@
+Developer's Hubris
+Points: 500
+Topics: web
+Description
+You're a new security engineer at the company, and you just found a fairly old, unfinished application running in a staging environment that is exposed to the internet. You bring this up to the developers, since it seems likely that hackers will look for ways to use this application as an entrypoint into the corporate environment. However, they tell you that it's just a basic bug report submission portal, and any dangerous code has been removed or hidden, so it should be safe. See if they left any loose ends that could be used to compromise the entire application
+
+http://chals.2022.squarectf.com:4104
