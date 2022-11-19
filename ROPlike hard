@@ -1,0 +1,13 @@
+ROPlike hard
+Points: 450
+Topics: pwn
+Description
+v1.0.2 balance changes
+- reduce number of rounds to make game more fun and interesting
+- add some anti-hacking mitigations because its come to my attention that SOME of you are cheating >:(
+
+v1.0.1 hotfix
+- remove overpowered syscall gadget
+- minor backend changes (does not impact gameplay)
+
+nc chals.2022.squarectf.com 4098
