@@ -1,0 +1,9 @@
+ROPlike medium
+Points: 350
+Topics: pwn
+Description
+v1.0.1 hotfix
+- remove overpowered syscall gadget
+- minor backend changes (does not impact gameplay)
+
+nc chals.2022.squarectf.com 4097
